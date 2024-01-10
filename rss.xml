@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Qin Chunlin Blog</title>
+        <link>https://qinchunlin.com/</link>
+        <description>Qin Chunlin Blog</description>
+        <lastBuildDate>Sat, 20 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[纪念2023]]></title>
+            <link>https://qinchunlin.com/2024/01/20/in-memory-of-2023</link>
+            <guid>https://qinchunlin.com/2024/01/20/in-memory-of-2023</guid>
+            <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

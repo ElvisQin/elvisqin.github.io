@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qinchunlin.com/</id>
+    <title>Qin Chunlin Blog</title>
+    <updated>2024-01-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qinchunlin.com/"/>
+    <subtitle>Qin Chunlin Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[纪念2023]]></title>
+        <id>https://qinchunlin.com/2024/01/20/in-memory-of-2023</id>
+        <link href="https://qinchunlin.com/2024/01/20/in-memory-of-2023"/>
+        <updated>2024-01-20T00:00:00.000Z</updated>
+        <author>
+            <name>Qin chunlin</name>
+            <uri>https://qinchunlin.com</uri>
+        </author>
+    </entry>
+</feed>

@@ -61,7 +61,6 @@ const config = {
       disableSwitch: true,
       navbar: {
         title: 'Qin Chunlin',
-        description: 'Chunlin\'s blog',
         hideOnScroll: true,
       },
       footer: {

@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Qin Chunlin',
-  tagline: 'Chunlin\'s blog',
+  tagline: 'Qin Chunlin\'s blog',
 
   // Set the production url of your site here
   url: 'https://qinchunlin.com',
@@ -42,7 +42,7 @@ const config = {
         blog: {
           routeBasePath: '/', 
           blogSidebarCount: 0,
-          blogTitle: 'Qin Chunlin',
+          blogTitle: 'Blog',
           blogDescription: 'Chunlin\'s blog',
           postsPerPage: 5,
         },

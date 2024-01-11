@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqinchunlin=self.webpackChunkqinchunlin||[]).push([[342],{2080:e=>{e.exports=JSON.parse('{"permalink":"/tags/\u6b22\u8fce","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Chunlin\'s blog","blogTitle":"Blog"}')}}]);

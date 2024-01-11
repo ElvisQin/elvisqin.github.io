@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqinchunlin=self.webpackChunkqinchunlin||[]).push([[344],{8813:e=>{e.exports=JSON.parse('{"permalink":"/tags/reality-world","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Chunlin\'s blog","blogTitle":"Blog"}')}}]);
